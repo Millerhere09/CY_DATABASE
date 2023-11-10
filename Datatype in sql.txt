@@ -1,0 +1,13 @@
+Datatype in sql
+
+numeric datatype  : 
+
+Int(upto 9 digit) 
+big int (after 9 digit)
+double 
+float
+
+String datatype :
+
+char
+varchar-----> 255 size
